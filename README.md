@@ -18,3 +18,8 @@ Pros del curso:
 - Alta tasa de empleabilidad.
 - Profesión de futuro.
 - Recursos adecuados para llevarlo a cabo.
+Contras del curso:
+
+- Alta dificultad del módulo de Programación.
+- Horario de tarde.
+- Disparidad en la relación tiempo / importancia en algunos módulos.
