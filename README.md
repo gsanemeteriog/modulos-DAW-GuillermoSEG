@@ -13,3 +13,8 @@
  - Sistemas.
  - Iniciativa para la Empleabilidad I.
 
+Pros del curso:
+
+- Alta tasa de empleabilidad.
+- Profesión de futuro.
+- Recursos adecuados para llevarlo a cabo.
