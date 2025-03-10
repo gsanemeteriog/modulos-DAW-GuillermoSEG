@@ -13,3 +13,8 @@
  - Sistemas.
  - Iniciativa para la Empleabilidad I.
 
+Contras del curso:
+
+- Alta dificultad del módulo de Programación.
+- Horario de tarde.
+- Disparidad en la relación tiempo / importancia en algunos módulos.
